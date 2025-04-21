@@ -117,7 +117,7 @@ function App() {
       <Toaster position="top-right" />
       <header className="App-header">
         
-        <h1>🦊 Ethereum Dapp</h1>
+        <h1>🦊 Donation Dapp</h1>
         <input
           type="number"
           value={donateAmount}
